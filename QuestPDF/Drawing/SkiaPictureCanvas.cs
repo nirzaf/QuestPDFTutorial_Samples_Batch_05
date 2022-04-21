@@ -1,7 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
-using QuestPDF.Helpers;
 using QuestPDF.Infrastructure;
 using SkiaSharp;
 

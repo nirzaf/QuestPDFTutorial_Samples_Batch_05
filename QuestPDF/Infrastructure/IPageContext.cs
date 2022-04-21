@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace QuestPDF.Infrastructure
+﻿namespace QuestPDF.Infrastructure
 {
     internal class DocumentLocation
     {

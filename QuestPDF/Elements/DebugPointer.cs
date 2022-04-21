@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-
-namespace QuestPDF.Elements
+﻿namespace QuestPDF.Elements
 {
     internal class DebugPointer : Container
     {

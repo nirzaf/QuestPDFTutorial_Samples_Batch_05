@@ -1,5 +1,4 @@
 ﻿using System.IO;
-using QuestPDF.Helpers;
 using SkiaSharp;
 
 namespace QuestPDF.Drawing
